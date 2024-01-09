@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  padding: 10px;
+  background-color: white;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.btn-save {
+  padding: 10px;
+  border-radius: 5px;
+}
+.link-delete {
+  cursor: pointer;
+}
